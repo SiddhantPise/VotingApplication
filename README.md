@@ -8,7 +8,7 @@
 This is a Spring Boot-based web application designed to enable efficient and transparent voting.  
 This system allows candidates and voters to register, allows voters to cast their votes, and finally view the election results.
 
-**Features:**  
+**Features:**    
 -Voter Module
 -Candidate Module
 
